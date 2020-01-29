@@ -1,4 +1,3 @@
-# Airbnb_User_Bookings
 # Airbnb New User Bookings - Kaggle
 
 ### Problem:
