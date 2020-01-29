@@ -1,4 +1,4 @@
-# Airbnb New User Bookings - Kaggle
+# Airbnb New User Bookings - Kaggle Project
 
 ### Problem:
 Instead of waking to overlooked "Do not disturb" signs, Airbnb travelers find themselves rising with the birds in a whimsical treehouse, having their morning coffee on the deck of a houseboat, or cooking a shared regional breakfast with their hosts.
